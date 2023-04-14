@@ -2,7 +2,7 @@ FROM lsiobase/ubuntu:focal
 
 ARG DEBIAN_FRONTEND="noninteractive"
 ARG HYPERHDR_URL="https://github.com/awawa-dev/HyperHDR/releases/download"
-ARG HYPERHDR_VERSION="17.0.0.0"
+ARG HYPERHDR_VERSION="19.0.0.0"
 ARG TARGETPLATFORM
 ARG BUILDPLATFORM
 
